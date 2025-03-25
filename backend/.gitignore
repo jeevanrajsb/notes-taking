@@ -1,0 +1,40 @@
+# Node.js dependencies
+/node_modules/
+
+# Log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+
+# IDE/editor files (for example, Visual Studio Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# Build output (for example, if you’re using Webpack, Babel, or similar)
+dist/
+build/
+
+# Coverage folder (for code coverage tools)
+coverage/
+
+# Debug files
+*.log
+
+# Dependencies and Package Manager
+/package-lock.json
+/yarn.lock
+
+# Optional: Ignore test results
+/test-results/
